@@ -1,0 +1,8 @@
+{
+  "name": "Dinleme Seti Üretici",
+  "description": "Gemini TTS ile 5 konuşmacılı dinleme sınavı ve stüdyo ses setleri üretici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
